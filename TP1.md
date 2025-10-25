@@ -1,4 +1,4 @@
-# 🧠 TP Cisco Packet Tracer – Inter-VLAN Routing
+# 🧠 TP1 Lab - Implement Inter-VLAN Routing
 
 ## 👨‍💻 Réalisé par
 **Nom :** Zaid Hankri  
