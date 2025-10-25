@@ -32,13 +32,21 @@ Voici la topologie réalisée sur **Cisco Packet Tracer** :
 
 ### ⚙️ Étapes :
 1. Câbler le réseau selon la topologie.
-<img width="1213" height="484" alt="image" src="https://github.com/user-attachments/assets/0a5a9750-f346-4f83-a0bb-7df771d97579" />
-2. Configurer les paramètres de base pour chaque équipement :
-   - Désactiver la recherche DNS (`no ip domain lookup`)
-   - Définir un nom d’hôte
-   - Ajouter un **message de bannière**
-   - Configurer la console (`exec-timeout`, `logging synchronous`)
-   - Sauvegarder la configuration (`copy running-config startup-config`)
+   
+<img width="1213" height="484" alt="image" src="https://github.com/user-attachments/assets/0a5a9750-f346-4f83-a0bb-7df771d97579" />  
+
+3. Configurer les paramètres de base pour chaque équipement :<br>
+   
+   - Désactiver la recherche DNS (`no ip domain lookup`)<br>
+     
+   - Définir un nom d’hôte  <br>
+     
+   - Ajouter un **message de bannière**  <br>
+   
+   - Configurer la console (`exec-timeout`, `logging synchronous`)  <br>
+   
+   - Sauvegarder la configuration (`copy running-config startup-config`)  <br>
+   
 
 ### 📸 Exemple de configuration de R1 :
 <p align="center">
