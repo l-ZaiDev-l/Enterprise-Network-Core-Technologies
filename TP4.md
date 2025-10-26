@@ -8,9 +8,6 @@
 ---
 
 ## 🎯 Objectifs du TP
-
-Ce TP a pour objectif de configurer et vérifier plusieurs méthodes de **routage inter-VLAN** sur des équipements Cisco, et d’examiner les tables de commutation et de routage utilisées dans le processus.
-
 ### ✅ Les objectifs spécifiques :
 - **Partie 1 :** Construire le réseau et configurer les paramètres de base des périphériques et l'adressage de l'interface  
 - **Partie 2 :** Mettre en œuvre et observer le MST    
